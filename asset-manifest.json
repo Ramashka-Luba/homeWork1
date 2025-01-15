@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ramashka-Luba/static/css/main.073c9b0a.css",
-    "main.js": "/Ramashka-Luba/static/js/main.a5346ec6.js",
-    "static/js/787.177e23c2.chunk.js": "/Ramashka-Luba/static/js/787.177e23c2.chunk.js",
-    "index.html": "/Ramashka-Luba/index.html",
-    "main.073c9b0a.css.map": "/Ramashka-Luba/static/css/main.073c9b0a.css.map",
-    "main.a5346ec6.js.map": "/Ramashka-Luba/static/js/main.a5346ec6.js.map",
-    "787.177e23c2.chunk.js.map": "/Ramashka-Luba/static/js/787.177e23c2.chunk.js.map"
+    "main.css": "/homeWork1/static/css/main.073c9b0a.css",
+    "main.js": "/homeWork1/static/js/main.c8b69675.js",
+    "static/js/787.177e23c2.chunk.js": "/homeWork1/static/js/787.177e23c2.chunk.js",
+    "index.html": "/homeWork1/index.html",
+    "main.073c9b0a.css.map": "/homeWork1/static/css/main.073c9b0a.css.map",
+    "main.c8b69675.js.map": "/homeWork1/static/js/main.c8b69675.js.map",
+    "787.177e23c2.chunk.js.map": "/homeWork1/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a5346ec6.js"
+    "static/js/main.c8b69675.js"
   ]
 }
